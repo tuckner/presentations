@@ -1,6 +1,6 @@
 # Automation year in review 2023
 
-**Location**: Tall Trellis Kansas City
+**Location**: Tall Trellis
 
 **Event**: SecKC
 
